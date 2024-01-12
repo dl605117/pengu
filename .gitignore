@@ -10,3 +10,6 @@
 
 # MakeFile
 MakeFile
+
+# Build directory
+/out
