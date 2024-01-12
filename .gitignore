@@ -1,15 +1,18 @@
 # IDE project files
-/.vs
-/.vscode
+.vs/
+.vscode/
 
 # Executables
-.exe
+*.exe
 
 # Outputs
-.o
+*.o
 
 # MakeFile
 MakeFile
 
 # Build directory
-/out
+out/
+
+# penguTest
+penguTest
